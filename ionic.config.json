@@ -1,7 +1,9 @@
 {
   "name": "ios-protection-app",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
-  "type": "angular"
+  "type": "angular",
+  "id": "e7cd45ea"
 }
